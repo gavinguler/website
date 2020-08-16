@@ -1,6 +1,10 @@
 /*global*/
 body{
     margin:0;
+        font-family: Arial;
+       
+        background: #f1f1f1;
+      
 }
 
 .color{
@@ -62,11 +66,7 @@ body{
     }
   }
 
-body {
-    font-family: Arial;
-    padding: 20px;
-    background: #f1f1f1;
-  }
+
   
   /* Header/Blog Title */
   .header {
