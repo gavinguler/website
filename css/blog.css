@@ -1,3 +1,13 @@
+/*global*/
+body{
+    margin:0;
+}
+
+.color{
+    color: #02b8dd;
+}
+
+
 /*navbar*/
 
 /* Style the navbar with a grey background and some padding */
